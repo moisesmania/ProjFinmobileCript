@@ -16,9 +16,9 @@ Aplicativo mobile desenvolvido com **React Native + Expo**, que simula a compra 
 | Tela de Cadastro | Tela de Login | Tela de Redefinir Senha |
 |------------------|---------------|--------------------------|
 | ![Cadastro]( assets/cadastro.png ) | ![Login](assets/login.png ) | ![Reset](assets/redefinirsenha.png ) |
-| Tela Principal | Histórico de Transações |
-|----------------|-------------------------|
-| ![Home]( assets/vender.png) | ![Histórico]( assets/historico.png) |
+| Tela Principal | Histórico de Transações |                          | Compras |
+|----------------|-------------------------|  
+| ![Home]( assets/vender.png) | ![Histórico]( assets/historico.png) |![Compras](assets/comprar.jpeg ) |
 > ⚠️ Certifique-se de colocar suas imagens na pasta `./assets/screens` com os nomes corretos.
 ---
 ## 🚀 Tecnologias Utilizadas
